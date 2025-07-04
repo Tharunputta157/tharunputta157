@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Tharun — a Full Stack Developer with a strong foundation in both frontend and backend technologies. I enjoy building scalable, user-centric applications and writing clean, maintainable code that’s easy to collaborate on and optimize.
 
-<!--
-**Tharunputta157/tharunputta157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+React.js • JavaScript • Angular 8+ • TypeScript • Node.js  
+.NET Core • SQL Server • Entity Framework • REST APIs  
+Tailwind CSS • Bootstrap • Azure DevOps • CI/CD Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m comfortable working across the stack, from creating responsive UIs to designing APIs and handling data models.
+
+In addition to my technical work, I care deeply about performance, accessibility, and clean architecture. I regularly take on coding challenges and enjoy staying current with modern best practices in web development.
+
+Outside of tech, I enjoy traveling, playing cricket, and watching movies. I’m always up for a good conversation about architecture, design systems, or efficient database queries.
+
+## Let’s Connect
+
+- Email: tharunputta157@gmail.com  
+- LinkedIn: https://linkedin.com/in/tharunputta 
+- GitHub: https://github.com/tharunputta157
+- Portfolio: https://saiputta.netlify.app/
+
+I’m open to full-time or contract opportunities. Feel free to reach out!
